@@ -1,6 +1,7 @@
 ﻿Chroma==0.2.0
 chromadb==0.4.24
 groq==0.8.0
+docx2txt
 nltk
 langchain==0.2.16
 langchain-chroma==0.1.4

@@ -1,0 +1,3 @@
+apt-get -y install tesseract-ocr
+apt-get -y install ffmpeg libsm6 libxext6
+apt-get -y install poppler-utils
